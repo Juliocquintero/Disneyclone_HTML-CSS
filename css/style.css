@@ -1,4 +1,4 @@
-/*Disney Plus Fondo: #040714;
+/*Disney Plsers Fondo: #040714;
 5columnas 144px ➕
 5 filas*/
 
@@ -47,6 +47,10 @@ body{
     align-items: center;
     justify-self: end;
     margin-right: 10px;
+}
+
+.User a{
+    text-decoration: none;
 }
 .User-Tittle{
     color: white;
